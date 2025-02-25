@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![ASCII](asciiArt.png "My profile picture")
 
 Here are some ideas to get you started:
 
