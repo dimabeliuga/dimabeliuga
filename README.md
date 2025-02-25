@@ -7,7 +7,7 @@ width="150" можно менять, style="margin-right: 20px;" даёт отс
 <img
   align="left"
   src="asciiArt.png"
-  width="150"
+  width="400"
   style="margin-right: 20px;"
   alt="Описание картинки"
 />
