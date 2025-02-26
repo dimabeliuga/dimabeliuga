@@ -19,10 +19,10 @@ Hello there! I'm **Dmytro Beliuha**, a passionate C++ developer who loves the un
 While my portfolio is still growing, here are two projects that I consider particularly useful:
 
 - [Log Parser](https://github.com/dimabeliuga/logParser)  
-  A flexible log parser featuring extensive configuration options and support for regular expressions. This tool allows for efficient log analysis and filtering.
+  LogParser is a robust, modular C++ command-line application designed for efficient log file parsing and filtering. It accepts both individual log files and entire directories, and offers powerful filtering options—including regex matching, log level selection, and customizable exclusion patterns. With an extensible architecture and comprehensive unit testing, LogParser is your flexible solution for streamlined log analysis.
 
 - [Steganography Tool](https://github.com/dimabeliuga/Hide-Text-In-Image)  
-  An innovative application that hides messages within images (supports PNG and BMP formats). If no secure key is provided, the tool automatically generates one. With just the image and key, the recipient can decode your hidden message. This project leverages advanced encryption, image processing algorithms, and data encoding techniques.
+  SteganoEncrypt is a C++ application that securely hides and extracts encrypted text within images using AES-256-CBC encryption and LSB steganography. It encrypts messages with a key derived from a user passphrase via PBKDF2, then embeds the ciphertext into BMP or PNG images by randomly distributing bits across pixel LSBs while subtly modifying non-critical pixels for added security. Future enhancements aim to improve performance, cross-platform portability, and overall robustness.
 
 ---
 
