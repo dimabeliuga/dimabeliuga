@@ -15,17 +15,17 @@ Hello there! I'm **Dmytro Beliuha**, a passionate C++ developer who loves the un
 
 While my portfolio is still growing, here are two projects that I consider particularly useful:
 
-- **Log Parser**  
+- [Log Parser](https://github.com/dimabeliuga/logParser)  
   A flexible log parser featuring extensive configuration options and support for regular expressions. This tool allows for efficient log analysis and filtering.
 
-- **Steganography Tool**  
+- [Steganography Tool](https://github.com/dimabeliuga/Hide-Text-In-Image)  
   An innovative application that hides messages within images (supports PNG and BMP formats). If no secure key is provided, the tool automatically generates one. With just the image and key, the recipient can decode your hidden message. This project leverages advanced encryption, image processing algorithms, and data encoding techniques.
 
 ---
 
 ## Development Environment & Tools 🛠
 
-- **Editors & IDEs:** I use [Visual Studio Code](https://code.visualstudio.com/) daily, along with tools such as Visual Studio 2022, Vim, NeoVim, and Code::Blocks.
+- **Editors & IDEs:** I use **Visual Studio Code** daily, along with tools such as Visual Studio 2022, Vim, NeoVim, and Code::Blocks.
 - **Build System:** I rely on **CMake** for building projects on both Windows and Linux.
 - **Testing:** I use **Google Test** for robust testing.
 - **Logging:** I utilize **spdlog** for logging.
