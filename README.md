@@ -5,6 +5,9 @@
   </picture>
 </a>
 
+<!--📏LINE-->
+<img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
+
 # About Me 👋
 
 Hello there! I'm **Dmytro Beliuha**, a passionate C++ developer who loves the unique blend of complexity and power that C++ offers—its high performance and the ability to work directly with hardware.  
@@ -57,3 +60,10 @@ Feel free to reach out via email at [dimabeliuga32@gmail.com](mailto:dimabeliuga
 <a href="Stats"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=dimabeliuga&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimabeliuga&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimabeliuga&label=Profile%20views&color=0e75b6&style=flat" alt="dimabeliuga" /> </p>
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
