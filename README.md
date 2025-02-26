@@ -5,8 +5,48 @@
   </picture>
 </a>
 
-# 💫 About Me:
-Hey there! 👋<br>I'm Dmytro Beliuha, a 22-year-old C++ enthusiast who loves crafting robust, high-performance solutions on both Windows and Linux. I rely on tools like CMake, GoogleTest, Git, CppCheck, and Boost.Asio to streamline my workflow and ensure code quality. <br><br>Beyond code, I'm passionate about cybersecurity 🔒 and always eager to explore new challenges in secure software development. I work primarily in Visual Studio Code, but I'm flexible with other environments whenever collaboration calls. <br><br>Whether it's building efficient back-end systems or diving into low-level optimizations, I'm always excited to contribute to meaningful projects.<br><br>Feel free to reach out if you'd like to team up, exchange knowledge, or chat about all things C++! 🚀<br>
+# About Me 👋
+
+Hello there! I'm **Dmytro Beliuha**, a passionate C++ developer who loves the unique blend of complexity and power that C++ offers—its high performance and the ability to work directly with hardware.  
+
+---
+
+## Projects 🚀
+
+While my portfolio is still growing, here are two projects that I consider particularly useful:
+
+- **Log Parser**  
+  A flexible log parser featuring extensive configuration options and support for regular expressions. This tool allows for efficient log analysis and filtering.
+
+- **Steganography Tool**  
+  An innovative application that hides messages within images (supports PNG and BMP formats). If no secure key is provided, the tool automatically generates one. With just the image and key, the recipient can decode your hidden message. This project leverages advanced encryption, image processing algorithms, and data encoding techniques.
+
+---
+
+## Development Environment & Tools 🛠
+
+- **Editors & IDEs:** I use [Visual Studio Code](https://code.visualstudio.com/) daily, along with tools such as Visual Studio 2022, Vim, NeoVim, and Code::Blocks.
+- **Build System:** I rely on **CMake** for building projects on both Windows and Linux.
+- **Testing:** I use **Google Test** for robust testing.
+- **Logging:** I utilize **spdlog** for logging.
+- **Documentation:** I generate documentation with **Doxygen**.
+- **Libraries:** I work with libraries like **Boost.Asio** and **OpenSSL**.
+- **Static Analysis:** I ensure code quality using **cppcheck**.
+
+---
+
+## Interests & Goals 🎯
+
+I enjoy creating practical applications that truly benefit users. In the field of cybersecurity, I focus on developing tools that protect users from attacks and minimize unnecessary data collection. My future goals include:
+
+- Enhancing my C++ skills and expanding my knowledge of new technologies and programming languages.
+- Building a community of like-minded developers to share ideas and collaborate on innovative projects.
+
+---
+
+## Contact 📫
+
+Feel free to reach out via email at [dimabeliuga32@gmail.com](mailto:dimabeliuga32@gmail.com) for any programming or cybersecurity-related discussions, collaborations on exciting projects, or job opportunities.
 
 
 ## 🌐 Socials:
