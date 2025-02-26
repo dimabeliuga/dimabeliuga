@@ -53,12 +53,11 @@ Feel free to reach out via email at [dimabeliuga32@gmail.com](mailto:dimabeliuga
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/something) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimabeliuga32@gmail.com) 
 
 # 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimabeliuga&label=Profile%20views&color=0e75b6&style=flat" alt="dimabeliuga" /> </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimabeliuga&show_icons=true&locale=en&layout=compact" alt="dimabeliuga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimabeliuga&show_icons=true&locale=en" alt="dimabeliuga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimabeliuga&" alt="dimabeliuga" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimabeliuga&label=Profile%20views&color=0e75b6&style=flat" alt="dimabeliuga" /> </p>
+
+
 
