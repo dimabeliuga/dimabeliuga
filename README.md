@@ -1,6 +1,6 @@
 <a href="https://github.com/dimabeliuga">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="p">
+    <source media="(prefers-color-scheme: dark)" srcset="gifka.gif">
     <img alt="" src="gifka.gif">
   </picture>
 </a>
