@@ -63,7 +63,7 @@ Feel free to reach out via email at [dimabeliuga@gmail.com](mailto:dimabeliuga@g
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1GKV39WKwQ_-7LF_uv05QDZ1JWdfUfVkD/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
