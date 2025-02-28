@@ -49,11 +49,11 @@ I enjoy creating practical applications that truly benefit users. In the field o
 
 ## Contact 📫
 
-Feel free to reach out via email at [dimabeliuga32@gmail.com](mailto:dimabeliuga32@gmail.com) for any programming or cybersecurity-related discussions, collaborations on exciting projects, or job opportunities.
+Feel free to reach out via email at [dimabeliuga@gmail.com](mailto:dimabeliuga@gmail.com) for any programming or cybersecurity-related discussions, collaborations on exciting projects, or job opportunities.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/something) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimabeliuga32@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-beliuha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimabeliuga@gmail.com) 
 
 # 📊 GitHub Stats:
 
